@@ -1,13 +1,19 @@
 ---
 layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
-category: sample
+title: 명품 HTML5 + CSS3 + Javascript 웹 프로그래밍 (생능출판 - 황기태)
+date: 2024-01-14  23:54:43 +0900
+category: Web
 ---
-# post-sample
-> Hello!
+## Chapter 01. 웹 프로그래밍과 HTML5 개요
 
-This is code
-```ruby
-print 'hello world'
-```
+> [학습내용]
+
+웹은 WWW(World Wide Web) 즉, 세상의 전체 컴퓨터를 연결하는 거미줄을 줄인 말이다.
+
+웹은 통신망 위에서 이루어지는 서비스 중 하나로, 웹 서버에 다수의 클라이언트 컴퓨터가 연결하여 상호 정보를 교류하는 시스템이다.
+
+웹 페이지의 구조와 내용은 HTML5 태그로, 출력되는 모양은 CSS3 스타일 시트로 작성하고, 사용자 입력을 처리하거나 웹 애플리케이션을 작성하는 것은 자바 스크립트로 나누어 만들어야 한다.
+
+> [Open Challenge 문제]
+
+> [실습문제]
