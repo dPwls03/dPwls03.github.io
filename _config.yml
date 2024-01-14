@@ -26,11 +26,11 @@ baseurl: "/"
 url: "http://dPwls03.github.io"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-default: 
-  scope:
-    path: "public/images"
-  values:
-    image: true
+# default: 
+  # scope:
+    # path: "public/images"
+  # values:
+    # image: true
 github_username: dPwls03
 highlighter: rouge
 svg:
