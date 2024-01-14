@@ -6,6 +6,7 @@ category: Web
 ---
 ## Chapter 01. 웹 프로그래밍과 HTML5 개요
 
+<br>
 > [학습내용]
 
 웹은 WWW(World Wide Web) 즉, 세상의 전체 컴퓨터를 연결하는 거미줄을 줄인 말이다.
