@@ -9,5 +9,7 @@ permalink: /about/
 <a href="https://github.com/dPwls03">
 <button><img src="https://github.com/dPwls03/dPwls03.github.io/blob/master/public/img/github.png" alt="GitHub" onclick="[GitHub<](https://github.com/dPwls03)" ></button>
 </a> 
+
 ![alt text](/public/img/github.png)
+
 * [github](https://github.com/dPwls03)
