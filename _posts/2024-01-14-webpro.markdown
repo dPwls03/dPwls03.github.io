@@ -16,7 +16,5 @@ category: Web
 웹 페이지의 구조와 내용은 HTML5 태그로, 출력되는 모양은 CSS3 스타일 시트로 작성하고, 사용자 입력을 처리하거나 웹 애플리케이션을 작성하는 것은 자바 스크립트로 나누어 만들어야 한다.
 
 <br>
-> [[Open Challenge 문제]](https://github.com/dPwls03)
-    
-<br>
-> [[실습문제]](https://github.com/dPwls03)
+> [[Open Challenge, 실습문제]](https://github.com/dPwls03)
+
