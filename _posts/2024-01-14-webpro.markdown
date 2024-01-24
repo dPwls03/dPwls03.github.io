@@ -71,3 +71,5 @@ HTML페이지는 <!DOCTYPE> 선언과 주석문, 그리고 헤드 부분과 바�
 
 <br>
 > <a href="/Web_programming_2023/Chapter02/index.html">[Open Challenge / 실습문제]</a>
+
+<hr>
