@@ -21,6 +21,7 @@ category: Web
 > <a href="/Web_programming_2023/Chapter01/index.html">[Open Challenge / 실습문제]</a>
 
 <br>
+<hr>
 
 ## Chapter 02. HTML 기본 문서 만들기
 
