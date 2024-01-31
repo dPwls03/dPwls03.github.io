@@ -95,3 +95,23 @@ HTML 페이지 문서의 구조를 명확히 전달하는 웹 페이지를 만�
 > <a href="/Web_programming_2023/Chapter03/index.html">[Open Challenge / 실습문제]</a>
 
 <hr>
+
+## Chapter 04. CSS3로 웹 페이지 꾸미기
+
+<br>
+> [학습내용]
+
+CSS3는 HTML 문서의 모양을 꾸미는 언어이며, CSS3로 작성한 코드를 CSS3 스타일 시트라고 부른다.
+
+CSS3 스타일 시트를 만들 때 꼭 있어야 하는 것이 셀렉터이다.
+
+설렉터는 CSS3 스타일 시트를 적용할 태그를 지정하는 기능으로 여러 가지가 있다.
+
+박스 모델이란 HTML 태그가 콘텐츠, 패딩, 테두리, 여백으로 구성된 박스라는 개념을 뜻하며, 
+
+CSS3 스타일을 이용하면 박스으이나 모양을 꾸밀 수 있다.
+
+<br>
+> <a href="/Web_programming_2023/Chapter04/index.html">[Open Challenge / 실습문제]</a>
+
+<hr>
