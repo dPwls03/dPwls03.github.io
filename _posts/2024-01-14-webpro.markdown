@@ -186,7 +186,7 @@ CSS3로 3가자의 효과를 만들 수 있다.
 
 String 객체는 문자열을 담아 객체처럼 사용하기 위한 목적이다.
 
-Math 객체를 이용하면 난수 발샐, 반올림, sin 값 계산, cos 값 계산 등 여러 수한 계산을 쉽게 할 수 잇다.
+Math 객체를 이용하면 난수 발샐, 반올림, sin 값 계산, cos 값 계산 등 여러 수한 계산을 쉽게 할 수 있다.
 
 <br>
 > <a href="/Web_programming_2023/Chapter07/index.html">[Open Challenge / 실습문제]</a>
