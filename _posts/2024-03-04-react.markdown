@@ -7,3 +7,16 @@ category: React
 
 ## React 시작하기
 > <a href="https://dpwls03.github.io/React/">[React 문제 모아보기]</a>
+
+## 2024-03-11 발표
+> [발표내용]
+Express와 Node.js에 대한 내용
+
+Express는 웹 애플리케이션 개발에 사용이 되며, Node.js를 위한 웹 프레임워크이다.
+
+Node.js는 Node.js는 Javascript 실행 환경으로, Javascript 코드를 실행할 수 있게 해주는 플랫폼이다.
+
++) Express 코드 ("Hello World" 출력하기)
+
+> [발표자료]
+<a href="https://dpwls03.github.io/React/">[발표자료]</a>
