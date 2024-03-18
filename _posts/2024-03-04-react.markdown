@@ -6,7 +6,7 @@ category: React
 ---
 
 ## React 시작하기
-> <a href="https://dpwls03.github.io/React/">[React 문제 모아보기]</a>
+> <a href="https://dpwls03.github.io/React/">[React 수업 모아보기]</a>
 
 ## 2024-03-11 발표
 > [발표내용]
@@ -20,3 +20,10 @@ Node.js는 Node.js는 Javascript 실행 환경으로, Javascript 코드를 실�
 
 > <a href="https://dpwls03.github.io/React/0311/Express(2022764048 최예진).pdf">[발표자료]</a>
 
+<hr>
+
+## 2024-03-25 발표
+> [발표내용]
+Git과 Github에 대한 내용
+
+> <a href="#">[발표자료]</a>
